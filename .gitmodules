@@ -1,0 +1,6 @@
+[submodule "consultas"]
+	path = consultas
+	url = https://github.com/Danzokka/consultas.git
+[submodule "backend-consultas"]
+	path = backend-consultas
+	url = https://github.com/Danzokka/backend-consultas.git
